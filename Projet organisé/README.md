@@ -8,7 +8,7 @@
 
     * Commande :
     ```c#
-    html_maker [name] =  new htmk_maker("[file name]");
+    html_maker [name] =  new html_maker("[file name]");
     ```
 
 2. Ecriture du début du fichier depuis le fichier template.txt.<br>Variable de coupure : "alt=\"grilles\"" , il faut le modifier dans le code du dll (**doit être unique dans le template**).
